@@ -14,10 +14,8 @@ I'm a mod developer for **SAMP (San Andreas Multiplayer)** — check out what I 
 ## 📸 Screenshots from My Projects
 
 <div align="center">
-  <p>Swipe → to view more</p>
 
   <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
-    <img src="Pictures/photo_2025-06-17_17-32-29.jpg" width="300" />
     <img src="Pictures/photo_2025-06-28_16-51-48.jpg" width="300" />
     <img src="Pictures/photo_2025-06-30_08-09-01.jpg" width="300" />
     <img src="Pictures/photo_2025-07-21_14-25-13.jpg" width="300" />
