@@ -22,4 +22,4 @@ I'm a mod developer for **SAMP (San Andreas Multiplayer)** — check out what I 
   </div>
 </div>
 
-##❤️Have a nice day
+## ❤️Have a nice day
