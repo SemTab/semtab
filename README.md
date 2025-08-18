@@ -21,3 +21,5 @@ I'm a mod developer for **SAMP (San Andreas Multiplayer)** — check out what I 
     <img src="Pictures/photo_2025-07-21_14-25-13.jpg" width="300" />
   </div>
 </div>
+
+##❤️Have a nice day
