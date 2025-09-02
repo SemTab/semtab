@@ -24,4 +24,4 @@ I'm a mod developer for **SAMP (San Andreas Multiplayer)** — check out what I 
 
 ---
 
-## ❤️Have a nice day, Goodbye👋
+## ❤️Have a nice day, Good Luck👋
